@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mobile App 1 - Final Assignment</string>
+    <string name="enter_city_name"> City name …</string>
+    <string name="get_at_my_location">Weather Forecast at my location</string>
+    <string name="getting_your_location">Getting your location …</string>
+    <string name="btn_search_by_city_name">Search</string>
+    <string name="city_suggestion_1">Helsinki</string>
+    <string name="city_suggestion_2">Ho Chi Minh City</string>
+    <string name="city_suggestion_3">Tampere</string>
+    <string name="city_suggestion_4">London</string>
+    <string name="message_empty_city_name">Please enter city name!</string>
+    <string name="message_invalid_location">Invalid location!</string>
+    <string name="empty_humidity">Empty</string>
+    <string name="empty_local_time">Empty</string>
+    <string name="empty_temperature">Empty °C</string>
+    <string name="empty_description">Empty description</string>
+    <string name="empty_sunrise">Empty</string>
+    <string name="empty_time_zone">Empty</string>
+    <string name="empty_sunset">Empty</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="sun_rise">Sun rise</string>
+    <string name="time_zone">Time zone</string>
+    <string name="feels_like">Feels like</string>
+    <string name="pressure">Pressure</string>
+    <string name="sun_set">Sun set</string>
+    <string name="local_time">Local time</string>
+    <string name="empty_pressure">Empty</string>
+    <string name="empty_city_name">Empty city name</string>
+    <string name="empty_wind_speed">Empty</string>
+    <string name="empty_feels_like">Empty</string>
+</resources>
